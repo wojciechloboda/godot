@@ -28,6 +28,9 @@
 /* SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.                 */
 /**************************************************************************/
 
+//NOWY SUPER KOMENTARZ
+
+
 #include "main.h"
 
 #include "core/config/project_settings.h"
